@@ -2,6 +2,8 @@ Config = {}
 
 Config.LB_Tablet = false
 
+Config.LicensePrice = 500
+
 Config.Shops = {
     {
         name = "ammunation",
